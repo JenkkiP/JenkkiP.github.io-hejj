@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.parent{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.ok{
+    border-bottom: 1px solid black;
+    flex-basis: 100%;
+}   
